@@ -1,0 +1,16 @@
+body {background-color: tan}
+
+h1   {
+  color: blue;
+  font-size: 4rem;
+}
+
+.b-title {
+  font-size: 6rem;
+  color: yellow;
+  font-family: cursive;
+}
+
+.margin-10 {
+  margin: 10rem;
+}
