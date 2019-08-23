@@ -1,0 +1,28 @@
+body {
+  height: auto;
+  text-align: center;
+}
+h1,h4{
+  font-family: 'Faster One', cursive;
+  padding-top: 60px
+}
+
+
+
+.first {
+  background-color: #d2fafb;
+  height: 300px;
+  text-align: center;
+  width: 100%;
+  margin:auto;
+}
+
+
+.fourth {
+  background-color: #d7d1c9;
+  height: 240px;
+  width: 50%;
+}
+h3,ul {
+  text-align: left;
+}
